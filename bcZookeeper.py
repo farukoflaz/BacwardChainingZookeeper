@@ -1,15 +1,3 @@
-"""
-CS461 Artificial Intelligence
-Homework 5
-
-Group nick: CROSSBREAKER
-
-Abdullah Emir Öztürk (S1)
-Ege Kemahlıoğlu (S1)
-Koray Barkın Cıngı (S2)
-Ömer Faruk Oflaz (S2)
-Ömer Faruk Ünal (S2)
-"""
 import random
 
 #global variable to store rules
