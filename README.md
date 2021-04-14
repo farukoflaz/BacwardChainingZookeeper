@@ -2,7 +2,7 @@
 Backward Chaining implementation for Zookeeper problem
 
 Example Output:
-
+```
 Initial working memory: ['has feathers', 'lays eggs', 'swims', 'does not fly', 'is black and white', 'has tawny color', 'exit'] 
 
 There would be waits for user input in the remaining part to check the current situation
@@ -25,3 +25,4 @@ Current working memory: ['has feathers', 'lays eggs', 'swims', 'does not fly', '
 
 
 Hypothesis it is a penguin TRUE
+```
