@@ -1,4 +1,4 @@
-# BacwardChainingZooKeeper
+# BacwardChainingZookeeper
 Backward Chaining implementation for Zookeeper problem
 
 Example Output:
